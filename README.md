@@ -12,6 +12,7 @@ This project is written in Python and requires the following modules:
 * Seaborn
 * Sci-kit Learn
 * Scipy
+
 The project file itself is a Jupyter Notebook file.
 
 ## Usage
